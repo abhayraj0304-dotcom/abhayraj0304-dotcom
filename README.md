@@ -12,6 +12,12 @@
 ![](https://streak-stats.demolab.com/?user=abhayraj0304-dotcom&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhayraj0304-dotcom&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abhayraj0304-dotcom&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
 [![](https://komarev.com/ghpvc/?username=abhayraj0304-dotcom&icon=0&color=0)](https://visitcount.itsvg.in)
 
