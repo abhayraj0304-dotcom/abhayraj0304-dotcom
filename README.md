@@ -1,24 +1,147 @@
-# 💫 About Me:
-<br>Hi, I'm Abhay Raj 👋  <br>I’m a passionate student and aspiring developer who enjoys learning new technologies and building practical projects.<br><br>🔭 Currently working on: Improving problem-solving skills and building Java & Python projects  <br>👯 Looking to collaborate on: Beginner-friendly open source and interesting coding projects  <br>🤝 Need help with: Advanced Data Structures & Algorithms and real-world project building  <br>🌱 Currently learning: Python, Java, and DSA  <br>💬 Ask me about: Java basics, coding logic, and beginner programming  <br>⚡ Fun fact: I believe consistency beats talent — small progress every day 🚀  <br><br>---<br><br>### 🚀 Skills<br>- 💻 Languages: Java, Python  <br>- 📚 Concepts: Data Structures, Algorithms (beginner level)  <br>- 🛠️ Tools: Git, GitHub  <br><br>---<br><br>### 📈 Goals<br>- Become a skilled software developer  <br>- Contribute to open source projects  <br>- Build impactful real-world applications  
+<div align="center">
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtY3E3Z2s1aWJ1enI2c2F0Z3B2bXg2cWR4Ynp6ZXBxNXVvOHJ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="45%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhay Raj) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abhay Raj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhayraj0304@gmail.com) 
+# 💻 DEV PROFILE: ABHAY RAJ 🚀
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abhayraj0304-dotcom&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=abhayraj0304-dotcom&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhayraj0304-dotcom&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=500&lines=Hello+World!+👋;Aspiring+Developer;Java+%26+Python+Enthusiast;DSA+Explorer;Consistency+Beats+Talent+🚀)](https://git.io/typing-svg)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=abhayraj0304-dotcom&color=00bfff&style=for-the-badge&label=PROFILE+VIEWS)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhayraj0304-dotcom&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=abhayraj0304-dotcom&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👾 ABOUT ME
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" align="right"/>
+
+```yaml
+Name     : Abhay Raj
+Role     : Aspiring Developer & Student
+Focus    : Java, Python & DSA
+Location : India 🇮🇳
+Status   : Building. Learning. Growing. 🚀
+Motto    : "Consistency beats talent — small 
+            progress every day!"
+```
+
+---
+
+## 🎯 CURRENT QUEST LOG
+
+<img src="https://media.giphy.com/media/lINRJmPp5n4fMjCm9B/giphy.gif" width="180px" align="right"/>
+
+```css
+🔭 Working On  → Java & Python Projects
+🌱 Learning    → Python | Java | DSA
+👯 Open To     → Beginner-Friendly Open Source
+🤝 Need Help   → Advanced DSA & Real-World Projects
+💬 Ask Me      → Java Basics & Coding Logic
+⚡ Fun Fact    → I debug with console.log and no shame!
+```
+
+---
+
+## 🛠️ TECH STACK
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📚 Concepts & Tools
+![Data Structures](https://img.shields.io/badge/Data%20Structures-FF6B6B?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-6C63FF?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GITHUB STATS
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="120px"/>
+
+![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhayraj0304-dotcom&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhayraj0304-dotcom&theme=tokyonight&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayraj0304-dotcom&theme=tokyonight&hide_border=false&layout=compact)
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENTS
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abhayraj0304-dotcom&theme=tokyonight&no-frame=false&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎯 GOALS — LEVEL UP ROADMAP
+
+```diff
++ ✅ Learn Java Basics
++ ✅ Start Python
++ ✅ Set up Git & GitHub
++ 🔄 Master Data Structures & Algorithms
++ 🔄 Build Real-World Projects
++ ⬜ Contribute to Open Source
++ ⬜ Become a Skilled Software Developer
++ ⬜ Build Impactful Applications 🌍
+```
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhayraj)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhayraj0304@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhayraj0304-dotcom)
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+</div>
+
+---
+
+### ✍️ DEV QUOTE OF THE DAY
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" width="80px"/>
+
+**⭐ If you like my work, drop a star on my repos! ⭐**
+
+*Made with ❤️ by Abhay Raj*
+
+</div>
